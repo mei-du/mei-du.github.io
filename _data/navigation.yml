@@ -6,22 +6,20 @@
   href: /about/ # Hardcoded URL
 - text: Team
   href: true # Automatically add URL of (first) page called "Team"
-- text: Blog
-  href: /blog/
-- text: Documentation
+- text: Publications
   menu: # Dropdown menu (one level deep only)
-  - text: Installation
-    href: true
-  - text: Configuration
-    href: true
-  - text: Markdown
-    href: true
+  - text: Featured
+    #href: true
+  - text: All
+    #href: true
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: No page with this title # Will be shown in red, since there is no page with this title
-    href: true
-  - text: Page with custom navigation
-    href: /docs/custom-navigation/
+  - text: "Supplementary data" # Title for block of menu items
+  - text: RNA-seq mixology 
+    #href: true
+  - text: etc.
+    #href: true
+#- text: Contact
+#  href: /contact/
 - text: GitHub
-  href: https://github.com/peterdesmet/petridish/
+  href: https://github.com/mritchielab
   new_window: true
