@@ -15,8 +15,8 @@ Changes requiring review (e.g. new blog posts) should be created in a separate b
 - Create internal links as `[previous post]({{ '/permalink/to/post/' | relative_url }})`
 
 Useful links:
-- Configuration[http://peterdesmet.com/petridish/docs/configuration/]
-- Markdown guide for pages[http://peterdesmet.com/petridish/docs/markdown/]
+- [http://peterdesmet.com/petridish/docs/configuration/](Configuration)
+- [http://peterdesmet.com/petridish/docs/markdown/](Markdown guide for pages)
 
 ## Repo structure
 
