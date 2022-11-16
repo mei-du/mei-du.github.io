@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Ritchie Lab
-description: Website for Ritchie Lab
+title: 
+description:
 background: /images/logo/banner-bg.png
 permalink: /
 ---
