@@ -14,6 +14,10 @@ Changes requiring review (e.g. new blog posts) should be created in a separate b
 - Add tags to posts to create relevant groups (e.g. same topic, project).
 - Create internal links as `[previous post]({{ '/permalink/to/post/' | relative_url }})`
 
+Useful links:
+- Configuration[http://peterdesmet.com/petridish/docs/configuration/]
+- Markdown guide for pages[http://peterdesmet.com/petridish/docs/markdown/]
+
 ## Repo structure
 
 The repository structure follows that of Jekyll websites.
