@@ -6,12 +6,8 @@ background: /images/logo/banner-bg.png
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
+## Lab focus: bioinformatics, genomics, statistics and software development
 
-## Latest
+My laboratory uses statistical methodologies to provide new insights into the genetic basis of health and disease. Medical research is embracing high-throughput technologies that generate large and complex data sets. Rapid advances in this field require the development of advanced software tools.
 
-See the demo website for instructions:
-
-- [Installation]({{ '/docs/installation/' | relative_url }})
-- [Configuration]({{ '/docs/configuration/' | relative_url }})
-- [Markdown]({{ '/docs/markdown/' | relative_url }})
+We develop specialised analysis methods for large and complex biological datasets. We collaborate with research groups throughout the Institute to uncover changes in gene regulation that occur during normal blood development and in the context of diseases such as cancer. Our research has accelerated the development of more effective cancer therapies and our statistical methods are extensively used by researchers worldwide to make new discoveries.
