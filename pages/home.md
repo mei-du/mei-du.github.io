@@ -1,7 +1,5 @@
 ---
 layout: home
-title: 
-description:
 background: /images/logo/banner-bg.png
 permalink: /
 ---
