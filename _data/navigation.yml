@@ -1,0 +1,27 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+  href: /
+- text: About
+  href: /about/ # Hardcoded URL
+- text: Team
+  href: true # Automatically add URL of (first) page called "Team"
+- text: Blog
+  href: /blog/
+- text: Documentation
+  menu: # Dropdown menu (one level deep only)
+  - text: Installation
+    href: true
+  - text: Configuration
+    href: true
+  - text: Markdown
+    href: true
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Dropdown header" # Title for block of menu items
+  - text: No page with this title # Will be shown in red, since there is no page with this title
+    href: true
+  - text: Page with custom navigation
+    href: /docs/custom-navigation/
+- text: GitHub
+  href: https://github.com/peterdesmet/petridish/
+  new_window: true
