@@ -4,12 +4,23 @@
   role: Lab head # Will appear next to name
   image: https://www.wehi.edu.au/sites/default/files/styles/people_page/public/headshots/Matt-Ritchie-pp.jpg?itok=Ssuo8eUd # Can be external link
   description: > # Can be Markdown
-    description of Matt!
+    about Matt!
   orcid: 0000-0002-7383-0609
   researchgate: Matthew-Ritchie-2
   googlescholar: H1yC7csAAAAJ&hl=en&oi=sra
   twitter: mritchieau
   github: mritchie
   email: mritchie@wehi.edu.au
+  
+ - name: Quentin Gouil
+   role: Senior Postdoctoral Fellow
+   image:
+   description:
+   orcid: 
+   researchgate: 
+   googlescholar: 
+   twitter: 
+   github: QGouil
+   email: gouil.q@wehi.edu.au
 
 
