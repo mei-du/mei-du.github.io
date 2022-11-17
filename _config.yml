@@ -2,7 +2,6 @@
 title: Ritchie Lab                       # Title in top navigation bar (navbar) and <head>
 description: Website for Ritchie Lab @ WEHI # Site description in <head>
 author: Ritchie Lab                    # Used for copyright statement in footer
-remote_theme: peterdesmet/petridish@2.0
 
 # SOCIAL PROFILES
 email: mritchie@wehi.edu.au
