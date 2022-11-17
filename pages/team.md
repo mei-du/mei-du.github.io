@@ -4,8 +4,8 @@ title: Team
 permalink: /team/
 ---
 <p align="middle">
-  <img src="/images/lab-photos/IMG_5295.png" width="45%" />
-  <img src="/images/lab-photos/IMG_20191024_144238_1.jpg" width="45%" /> 
+  <img src="/images/lab-photos/IMG_5295.png" width="30%" />
+  <img src="/images/lab-photos/IMG_20191024_144238_1.jpg" width="30%" /> 
 </p>
 <p align="middle">
   <img src="/images/lab-photos/09102020_lablunch.png" width="45%" />
